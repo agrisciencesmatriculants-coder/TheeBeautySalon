@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" role="img" aria-label="empty salon chair">
+  <g fill="none" stroke="#8B5CF6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
+    <path d="M200 90 q0 -34 40 -34 h120 q40 0 40 34 v70 h-200 z"/>
+    <path d="M212 160 v54 q0 22 22 22 h132 q22 0 22 -22 v-54" stroke-opacity=".7"/>
+    <rect x="236" y="236" width="128" height="26" rx="13"/>
+    <path d="M300 262 v48"/>
+    <path d="M300 310 l-64 40 M300 310 l64 40 M300 310 v52" stroke-opacity=".8"/>
+    <circle cx="236" cy="356" r="9"/>
+    <circle cx="364" cy="356" r="9"/>
+    <circle cx="300" cy="366" r="9"/>
+    <path d="M212 160 h176" stroke-opacity=".5" stroke-width="4"/>
+  </g>
+  <g fill="#D4AF6A">
+    <path d="M452 96 l8 14 14 8 -14 8 -8 14 -8-14 -14-8 14-8 z"/>
+    <path d="M150 140 l6 10 10 6 -10 6 -6 10 -6-10 -10-6 10-6 z" opacity=".8"/>
+    <path d="M480 210 l5 9 9 5 -9 5 -5 9 -5-9 -9-5 9-5 z" opacity=".7"/>
+  </g>
+  <path d="M140 384 q160 -22 320 0" fill="none" stroke="#8B5CF6" stroke-opacity=".3" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 12"/>
+</svg>

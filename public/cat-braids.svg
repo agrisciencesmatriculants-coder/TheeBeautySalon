@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="braids">
+  <g fill="none" stroke="#8B5CF6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 22 C34 40 46 52 40 70 C34 88 42 100 40 112"/>
+    <path d="M64 16 C58 38 70 52 64 74 C58 94 68 104 64 118"/>
+    <path d="M88 22 C82 40 94 52 88 70 C82 88 90 100 88 112"/>
+    <circle cx="40" cy="22" r="5" fill="#8B5CF6" stroke="none"/>
+    <circle cx="64" cy="16" r="5" fill="#8B5CF6" stroke="none"/>
+    <circle cx="88" cy="22" r="5" fill="#8B5CF6" stroke="none"/>
+    <path d="M34 52 h12 M58 60 h12 M82 52 h12 M34 84 h12 M58 92 h12 M82 84 h12" stroke-width="3"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="nails">
+  <g fill="none" stroke="#8B5CF6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="42" y="52" width="44" height="58" rx="12"/>
+    <path d="M56 52 v-14 h16 v14"/>
+    <rect x="58" y="18" width="12" height="22" rx="4"/>
+    <path d="M50 84 q14 -12 28 0" stroke="#D4AF6A"/>
+    <path d="M96 26 l4 7 7 4 -7 4 -4 7 -4-7 -7-4 7-4 z" fill="#D4AF6A" stroke="none"/>
+  </g>
+</svg>

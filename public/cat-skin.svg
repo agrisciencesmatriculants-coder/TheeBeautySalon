@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="skin and facials">
+  <g fill="none" stroke="#8B5CF6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 34 Q64 22 88 34 Q96 62 84 86 Q74 104 64 104 Q54 104 44 86 Q32 62 40 34 Z"/>
+    <path d="M50 58 q6 -6 12 0 M66 58 q6 -6 12 0" stroke-width="3"/>
+    <path d="M56 78 q8 6 16 0" stroke-width="3"/>
+    <path d="M98 22 q10 2 12 12 q-12 0 -14 -8 q0 -3 2 -4 z" fill="#D4AF6A" stroke="none"/>
+    <path d="M28 20 l3 5 5 3 -5 3 -3 5 -3-5 -5-3 5-3 z" fill="#D4AF6A" stroke="none"/>
+  </g>
+</svg>

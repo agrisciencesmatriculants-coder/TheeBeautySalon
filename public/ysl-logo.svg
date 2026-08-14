@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="YSL Mega Beauty Salon seal">
+  <defs>
+    <linearGradient id="seal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3B1B5E"/>
+      <stop offset=".55" stop-color="#4C2A75"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D4AF6A"/>
+      <stop offset=".5" stop-color="#EBD3A4"/>
+      <stop offset="1" stop-color="#B98F45"/>
+    </linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="248" fill="url(#ring)"/>
+  <circle cx="256" cy="256" r="234" fill="url(#seal)"/>
+  <circle cx="256" cy="256" r="204" fill="none" stroke="#EBD3A4" stroke-opacity=".55" stroke-width="2"/>
+  <circle cx="256" cy="256" r="196" fill="none" stroke="#EBD3A4" stroke-opacity=".25" stroke-width="1" stroke-dasharray="2 7"/>
+  <text x="256" y="268" text-anchor="middle" dominant-baseline="central"
+        font-family="Cormorant Garamond, Georgia, serif" font-style="italic" font-weight="600"
+        font-size="150" letter-spacing="4" fill="#EBD3A4">YSL</text>
+  <path d="M156 342 q100 34 200 0" fill="none" stroke="#D4AF6A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M246 132 l10 18 10-18 -10-8 z" fill="#D4AF6A"/>
+  <g fill="#D4AF6A">
+    <path d="M120 246 l6 10 10 6 -10 6 -6 10 -6-10 -10-6 10-6 z"/>
+    <path d="M392 246 l6 10 10 6 -10 6 -6 10 -6-10 -10-6 10-6 z"/>
+  </g>
+  <text x="256" y="398" text-anchor="middle" font-family="Jost, Arial, sans-serif"
+        font-size="21" letter-spacing="7" fill="#D4AF6A" fill-opacity=".9">MEGA BEAUTY SALON</text>
+</svg>

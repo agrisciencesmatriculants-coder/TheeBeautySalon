@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="lashes">
+  <g fill="none" stroke="#8B5CF6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 66 Q64 96 106 66"/>
+    <path d="M34 60 l-8 -14"/>
+    <path d="M48 67 l-5 -17"/>
+    <path d="M64 70 l0 -19"/>
+    <path d="M80 67 l5 -17"/>
+    <path d="M94 60 l8 -14"/>
+    <path d="M22 66 Q64 40 106 66" stroke="#D4AF6A" stroke-width="3"/>
+  </g>
+</svg>

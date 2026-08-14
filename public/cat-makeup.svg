@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="makeup brush">
+  <g fill="none" stroke="#8B5CF6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M78 50 L104 104 q3 8 -6 10 l-6 2 q-8 2 -10 -6 L62 58"/>
+    <path d="M62 58 L78 50 L70 34 Q68 28 62 32 Q40 44 40 44 Q36 48 42 52 Z"/>
+    <path d="M42 44 Q34 30 44 20 Q58 12 70 34" stroke="#D4AF6A"/>
+    <path d="M50 38 Q52 30 58 26" stroke="#D4AF6A" stroke-width="3"/>
+  </g>
+</svg>
