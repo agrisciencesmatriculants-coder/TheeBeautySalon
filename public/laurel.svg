@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="512" height="256" role="img" aria-label="laurel wreath">
+  <defs>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EBD3A4"/>
+      <stop offset="1" stop-color="#D4AF6A"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#leaf)" stroke="#B98F45" stroke-width="1.5">
+    <g id="left">
+      <path d="M140 232 C92 214 56 176 44 128 C38 102 40 74 52 48" fill="none" stroke="url(#leaf)" stroke-width="7" stroke-linecap="round"/>
+      <path d="M136 224 q-30 -2 -44 16 q26 10 44 -16 z"/>
+      <path d="M108 192 q-28 -8 -46 6 q22 16 46 -6 z"/>
+      <path d="M88 156 q-26 -12 -46 -2 q18 20 46 2 z"/>
+      <path d="M74 118 q-24 -16 -45 -8 q14 22 45 8 z"/>
+      <path d="M68 80 q-20 -20 -42 -16 q10 24 42 16 z"/>
+      <path d="M70 46 q-14 -24 -36 -24 q4 26 36 24 z"/>
+    </g>
+    <g transform="translate(512,0) scale(-1,1)">
+      <path d="M140 232 C92 214 56 176 44 128 C38 102 40 74 52 48" fill="none" stroke="url(#leaf)" stroke-width="7" stroke-linecap="round"/>
+      <path d="M136 224 q-30 -2 -44 16 q26 10 44 -16 z"/>
+      <path d="M108 192 q-28 -8 -46 6 q22 16 46 -6 z"/>
+      <path d="M88 156 q-26 -12 -46 -2 q18 20 46 2 z"/>
+      <path d="M74 118 q-24 -16 -45 -8 q14 22 45 8 z"/>
+      <path d="M68 80 q-20 -20 -42 -16 q10 24 42 16 z"/>
+      <path d="M70 46 q-14 -24 -36 -24 q4 26 36 24 z"/>
+    </g>
+  </g>
+</svg>
