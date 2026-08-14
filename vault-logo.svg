@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="800" height="240" role="img" aria-label="Youna Venture Vault">
+  <defs>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0F766E"/>
+      <stop offset="1" stop-color="#134E4A"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path d="M120 26 L196 52 V120 C196 168 164 200 120 216 C76 200 44 168 44 120 V52 Z" fill="url(#shield)"/>
+    <path d="M120 40 L182 61 V120 C182 159 156 186 120 200 C84 186 58 159 58 120 V61 Z" fill="none" stroke="#99F6E4" stroke-opacity=".35" stroke-width="3"/>
+    <circle cx="120" cy="112" r="34" fill="#0B3B38"/>
+    <circle cx="120" cy="112" r="34" fill="none" stroke="#5EEAD4" stroke-width="4"/>
+    <circle cx="120" cy="112" r="20" fill="none" stroke="#5EEAD4" stroke-opacity=".5" stroke-width="3" stroke-dasharray="4 6"/>
+    <circle cx="120" cy="104" r="9" fill="#5EEAD4"/>
+    <rect x="115.5" y="108" width="9" height="22" rx="4.5" fill="#5EEAD4"/>
+  </g>
+  <text x="240" y="118" font-family="Jost, Arial, sans-serif" font-weight="600" font-size="64" letter-spacing="2" fill="#12332F">Youna</text>
+  <text x="240" y="118" font-family="Jost, Arial, sans-serif" font-weight="300" font-size="64" letter-spacing="2" fill="#0F766E" dx="150">Venture</text>
+  <text x="240" y="184" font-family="Jost, Arial, sans-serif" font-weight="500" font-size="34" letter-spacing="14" fill="#5B6B68">VAULT</text>
+  <rect x="240" y="140" width="380" height="2" fill="#0F766E" opacity=".35"/>
+</svg>
